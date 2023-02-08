@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/listuser/static/css/main.0d17b8e8.css",
+    "main.js": "/listuser/static/js/main.7dc6822f.js",
+    "index.html": "/listuser/index.html",
+    "main.0d17b8e8.css.map": "/listuser/static/css/main.0d17b8e8.css.map",
+    "main.7dc6822f.js.map": "/listuser/static/js/main.7dc6822f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d17b8e8.css",
+    "static/js/main.7dc6822f.js"
+  ]
+}
